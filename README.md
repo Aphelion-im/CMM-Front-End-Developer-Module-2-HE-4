@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9c7cbfa9-416b-4a9a-affa-07d48627ecfc/deploy-status)](https://app.netlify.com/sites/cmm-front-end-developer-module-2-he-4/deploys)
 # College of Multimedia Opdracht HE-4
 
 __Opdrachtomschrijving__
